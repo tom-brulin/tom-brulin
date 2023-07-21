@@ -1,0 +1,35 @@
+name: Update README everyday at 9:32am
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "32 9 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Update README.md file
+        run: |
+          node index.js > README.md
+        env:
+          CI: true
+      - name: commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: tom-brulin
+          author_email: t.brulin@outlook.com
+          force: false
+          signoff: false
+          message: ":memo: README.md updated by Actions"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

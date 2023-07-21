@@ -1,0 +1,23 @@
+{
+  "name": "tom-brulin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tom-brulin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-brulin/tom-brulin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tom-brulin/tom-brulin/issues"
+  },
+  "homepage": "https://github.com/tom-brulin/tom-brulin#readme",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.45.0"
+  }
+}
