@@ -5,7 +5,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tom_Brulin)
 
-Here is my homemade daytime ☀️ counter before next year ⏱ **63 day before 2024 ⏱**
+Here is my homemade daytime ☀️ counter before next year ⏱ **62 day before 2024 ⏱**
 
 #### Languages
 
