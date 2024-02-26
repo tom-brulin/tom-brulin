@@ -5,7 +5,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tom_Brulin)
 
-Here is my homemade daytime ☀️ counter before next year ⏱ **311 day before 2025 ⏱**
+Here is my homemade daytime ☀️ counter before next year ⏱ **310 day before 2025 ⏱**
 
 #### Languages
 
@@ -31,6 +31,6 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **311 day before
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-brulin&label=Profile%20views&color=0e75b6&style=flat-square" alt="tom-brulin" /> </p>
 
-Last update on Sun Feb 25 2024
+Last update on Mon Feb 26 2024
 
 🤖 This README.md is updated daily, by Actions ❤️
