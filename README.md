@@ -5,8 +5,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tom_Brulin)
 
-Here is my homemade daytime ☀️ counter before next year ⏱ **288 day before 2025 ⏱**
-
 #### Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-f89820.svg?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=fff)
@@ -30,7 +28,3 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **288 day before
 ### Visitor count
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-brulin&label=Profile%20views&color=0e75b6&style=flat-square" alt="tom-brulin" /> </p>
-
-Last update on Tue Mar 19 2024
-
-🤖 This README.md is updated daily, by Actions ❤️
